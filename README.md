@@ -12,3 +12,5 @@ TODO: (if possible) comment indentation
 
 I created this just for fun to play with some python libs and regexp
 Use to look like your coding ;)
+
+© 2013 Conner McConkey
